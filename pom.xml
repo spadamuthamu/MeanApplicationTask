@@ -14,7 +14,7 @@
 	<configuration>
 		<url>http://localhost:9090/manager/text</url>
 		<server>TomcatServer</server>
-		<path>/MainCode</path>
+		<path>/MainApplication</path>
 	</configuration>
 </plugin>
 	    <plugin>
